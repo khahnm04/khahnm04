@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Nguyen Minh Khanh
+# 💫 Hi, I'm Nguyen Minh Khanh, I'm a Software Engineer.
 
 
 
