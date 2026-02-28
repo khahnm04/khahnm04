@@ -17,7 +17,7 @@
 `MySQL` `Microsoft SQL Server` `MongoDB` `Redis`
 
 ### DevOps & Tools
-`CI/CD` `GitHub Actions` `Jenkins` `Docker` `Kubernetes` `AWS` `Postman`
+`CI/CD` `GitHub Actions` `Jenkins` `Docker` `Postman`
 
 ---
 
