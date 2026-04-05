@@ -5,19 +5,19 @@
 ## 💻 Technical Skills
 
 ### Programming Languages
-`Java` `JavaScript` `TypeScript` `C++`
+`Java` `JavaScript` `TypeScript`
 
-### Frontend Development
-`HTML5` `CSS3` `Pug` `TailwindCSS` `React` `Next.js`
+### Backend
+`Spring Framework` `Spring Boot` `Spring Data JPA` `Spring Data Redis` `Spring Security` `JWT` `OAuth2`
 
-### Backend Development
-`Spring Framework` `Spring Boot` `Spring Core` `Spring MVC` `Spring Data JPA` `Spring Security`
+### Frontend
+`TailwindCSS` `React` `Next.js`
 
 ### Database & Caching
-`MySQL` `Microsoft SQL Server` `MongoDB` `Redis`
+`MySQL` `PostgreSQL` `MongoDB` `Redis`
 
 ### DevOps & Tools
-`CI/CD` `GitHub Actions` `Jenkins` `Docker` `Postman`
+`CI/CD`(`GitHub Actions`) `Docker` `Postman`
 
 ---
 
